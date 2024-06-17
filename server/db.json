@@ -1,0 +1,19 @@
+{
+  "jobs": [   
+    {
+      "id": 29776,
+      "name": "rửa bát",
+      "status": false
+    },
+    {
+      "id": 47981,
+      "name": "lau cửa",
+      "status": false
+    },
+    {
+      "id": 1724,
+      "name": "cooking ",
+      "status": false
+    }
+  ]
+}
